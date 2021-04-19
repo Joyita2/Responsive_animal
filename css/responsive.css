@@ -1,0 +1,249 @@
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  html,body{
+    overflow-x: hidden;
+}
+ .banner .btn-primary{
+    margin-bottom: 48px;
+ }
+
+ .banner h1 {
+    font-size: 55px;
+    margin-left: 90px;
+  }
+ .banner p{
+    padding-left: 31px;
+    margin-left: 41px;
+ } 
+
+ .ms-3 {
+    margin-left: 8rem!important;
+    margin-top: 20px;
+  
+}
+.team ul {
+    margin-left: 3px;
+}
+
+.overley{
+  padding: 60px;
+  padding-top: 131px;
+}
+}
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 560px) {
+  
+  /* CSS */
+html,body{
+    overflow-x: hidden;
+}
+ .banner h1 {
+    font-size: 40px;
+    margin-top: 5px;
+  }
+  .banner p {
+    font-size: 22px;
+
+}
+.banner .btn-primary {
+  margin-bottom: 20px;
+}
+.ms-3 {
+    margin-left: 8rem!important;
+    margin-bottom: 40px;
+}
+
+.Service1 {
+  padding: 10px 0;
+ 
+}
+.Service1 h1 {
+   font-size: 33px;
+   margin-top: 40px;
+ }
+
+ .Service1 p {
+    font-size: 20px;
+    margin: 35px 0;
+}
+
+.Service1 .btn-danger {
+    margin-bottom: 30px;
+    margin-left: 102px;
+}
+.title {
+    padding: 35px 0;
+    margin-top: 35px;
+}
+
+.service_vdo1 .box1 {
+  bottom: -11px;
+}
+
+.title p {
+  font-size: 16px;
+  line-height: 11px;
+  }
+
+  .title_des h4 {
+    margin-top: 25px;
+    font-size: 25px;
+    letter-spacing: 1px;
+}
+
+.title p {
+    margin-bottom: 28px;
+    font-size: 16px;
+    line-height: 18px;
+}
+
+.Service2 {
+    padding: 34px 0;
+}
+
+.Service2 h1 {
+    font-size: 33px;
+
+}
+
+.Service2 p {
+    font-size: 20px;
+    margin: 22px 0;
+}
+
+.Service2 .btn-danger {
+    margin-left: 106px;
+}
+.title2 {
+    padding: 24px 0;
+}
+.title2 p {
+    font-size: 16px;
+    line-height: 12px;
+    }
+
+.img-fluid {
+    margin-top: -20px;
+  }
+
+  .btn-primary {
+    margin-left: 119px !important;
+    margin-bottom: 45px;
+}
+.team {
+    padding: 34px 0;
+  }
+.team p {
+    font-size: 16px;
+  }
+.footer ol, ul {
+    padding-left: 1rem !important;
+}
+dl, ol, ul {
+    margin-bottom: 3rem;
+
+
+}
+
+.team {
+    padding: 25px 0;
+}
+
+.client .row .col-md-4 {
+    margin-top: -100px;
+}
+
+.client .row .col-md-4 h3 {
+    font-size: 20px;
+}
+
+.client h2{
+  font-size:20px;
+  margin-bottom: 20px;
+}
+.client h3{
+  font-size:16px;
+  margin-bottom: 20px;
+}
+
+.client img {
+    margin-left: -157px;
+    margin-bottom: 20px;
+}
+.client .row .col-md-4 h2 {
+    font-size: 30px;
+    
+}
+.service_vdo2 .shadow_2 {
+    top: -20px;
+    }
+
+.service_vdo1 .shadow_1 { 
+    top: -21px;
+    
+}
+.service_vdo2 .box2 {
+    bottom: -12px;
+}
+.post p {
+    font-size: 16px;
+    line-height: 17px;
+}
+
+.post {
+    padding: 40px 0;
+}
+.post_content h5 {
+    font-size: 25px;
+}
+.h6, h6 {
+    font-size: 20px;
+}
+.post p {
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.post_des p {
+    margin-bottom: 18px;
+}
+
+.h6, h6 {
+    margin-bottom: 35px;
+
+}
+
+.footer h4 {
+    text-align: center;
+    margin: -29px 0 30px 0;
+}
+
+.footer h3 {
+    text-align: center;
+}
+
+.footer p {
+    text-align: center;
+    }
+
+    .footer .left {
+    padding-left: 96px;
+}
+
+.footer {
+    padding: 65px 0 20px 0;
+}
+  }
